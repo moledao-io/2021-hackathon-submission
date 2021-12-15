@@ -1,4 +1,4 @@
-# Submission Criteria for 2021 Moledao Hackathon
+# Moledao Hackathon Submission Template
 
 Please fork this repo for your submission.
 
